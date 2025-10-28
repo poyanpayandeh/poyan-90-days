@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUsLJ3y1igE=",
+  "success": true,
+  "projectFilePath": "/home/poyan/90-days/day2-csharp-basics/HelloDay2/HelloDay2.csproj",
+  "expectedPackageFiles": [
+    "/home/poyan/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

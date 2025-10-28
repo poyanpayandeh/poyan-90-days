@@ -1,0 +1,15 @@
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/bin/Debug/net9.0/HelloDay2
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/bin/Debug/net9.0/HelloDay2.deps.json
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/bin/Debug/net9.0/HelloDay2.runtimeconfig.json
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/bin/Debug/net9.0/HelloDay2.dll
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/bin/Debug/net9.0/HelloDay2.pdb
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/HelloDay2.GeneratedMSBuildEditorConfig.editorconfig
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/HelloDay2.AssemblyInfoInputs.cache
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/HelloDay2.AssemblyInfo.cs
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/HelloDay2.csproj.CoreCompileInputs.cache
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/HelloDay2.sourcelink.json
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/HelloDay2.dll
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/refint/HelloDay2.dll
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/HelloDay2.pdb
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/HelloDay2.genruntimeconfig.cache
+/home/poyan/90-days/day2-csharp-basics/HelloDay2/obj/Debug/net9.0/ref/HelloDay2.dll
