@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kf/UHOk06u8=",
+  "success": true,
+  "projectFilePath": "/home/poyan/90-days/day2-csharp-basics/Collections/Collections.csproj",
+  "expectedPackageFiles": [
+    "/home/poyan/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

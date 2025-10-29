@@ -1,0 +1,15 @@
+/home/poyan/90-days/day2-csharp-basics/Collections/bin/Debug/net9.0/Collections
+/home/poyan/90-days/day2-csharp-basics/Collections/bin/Debug/net9.0/Collections.deps.json
+/home/poyan/90-days/day2-csharp-basics/Collections/bin/Debug/net9.0/Collections.runtimeconfig.json
+/home/poyan/90-days/day2-csharp-basics/Collections/bin/Debug/net9.0/Collections.dll
+/home/poyan/90-days/day2-csharp-basics/Collections/bin/Debug/net9.0/Collections.pdb
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/Collections.AssemblyInfoInputs.cache
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/Collections.AssemblyInfo.cs
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/Collections.csproj.CoreCompileInputs.cache
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/Collections.sourcelink.json
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/Collections.dll
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/refint/Collections.dll
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/Collections.pdb
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/Collections.genruntimeconfig.cache
+/home/poyan/90-days/day2-csharp-basics/Collections/obj/Debug/net9.0/ref/Collections.dll
