@@ -1,0 +1,15 @@
+/home/poyan/90-days/day2-csharp-basics/OOP/bin/Debug/net9.0/OOP
+/home/poyan/90-days/day2-csharp-basics/OOP/bin/Debug/net9.0/OOP.deps.json
+/home/poyan/90-days/day2-csharp-basics/OOP/bin/Debug/net9.0/OOP.runtimeconfig.json
+/home/poyan/90-days/day2-csharp-basics/OOP/bin/Debug/net9.0/OOP.dll
+/home/poyan/90-days/day2-csharp-basics/OOP/bin/Debug/net9.0/OOP.pdb
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/OOP.sourcelink.json
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/OOP.dll
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/refint/OOP.dll
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/OOP.pdb
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/OOP.genruntimeconfig.cache
+/home/poyan/90-days/day2-csharp-basics/OOP/obj/Debug/net9.0/ref/OOP.dll
