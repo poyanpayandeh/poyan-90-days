@@ -18,9 +18,6 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Using Include="Xunit" />
-  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\day3-collections-linq.csproj" />
