@@ -1,0 +1,15 @@
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/bin/Debug/net9.0/day3-collections-linq
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/bin/Debug/net9.0/day3-collections-linq.deps.json
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/bin/Debug/net9.0/day3-collections-linq.runtimeconfig.json
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/bin/Debug/net9.0/day3-collections-linq.dll
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/bin/Debug/net9.0/day3-collections-linq.pdb
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/day3-collections-linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/day3-collections-linq.AssemblyInfoInputs.cache
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/day3-collections-linq.AssemblyInfo.cs
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/day3-collections-linq.csproj.CoreCompileInputs.cache
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/day3-collections-linq.sourcelink.json
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/day3-collections-linq.dll
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/refint/day3-collections-linq.dll
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/day3-collections-linq.pdb
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/day3-collections-linq.genruntimeconfig.cache
+/home/poyan/90-days/day3-c#intermediate/day3-collections-linq/obj/Debug/net9.0/ref/day3-collections-linq.dll
