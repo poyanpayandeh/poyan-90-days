@@ -1,0 +1,15 @@
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/day3-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/day3-c#.AssemblyInfoInputs.cache
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/day3-c#.AssemblyInfo.cs
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/day3-c#.csproj.CoreCompileInputs.cache
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/day3-c#.sourcelink.json
+/home/poyan/90-days/day3-c#intermediate/day3-c#/bin/Debug/net9.0/day3-c#
+/home/poyan/90-days/day3-c#intermediate/day3-c#/bin/Debug/net9.0/day3-c#.deps.json
+/home/poyan/90-days/day3-c#intermediate/day3-c#/bin/Debug/net9.0/day3-c#.runtimeconfig.json
+/home/poyan/90-days/day3-c#intermediate/day3-c#/bin/Debug/net9.0/day3-c#.dll
+/home/poyan/90-days/day3-c#intermediate/day3-c#/bin/Debug/net9.0/day3-c#.pdb
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/day3-c#.dll
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/refint/day3-c#.dll
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/day3-c#.pdb
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/day3-c#.genruntimeconfig.cache
+/home/poyan/90-days/day3-c#intermediate/day3-c#/obj/Debug/net9.0/ref/day3-c#.dll
