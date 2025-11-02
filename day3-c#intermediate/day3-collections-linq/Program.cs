@@ -29,3 +29,6 @@ Stack<int> stack = new Stack<int>();
 stack.Push(1);
 stack.Push(2);
 Console.WriteLine($"Stack pop: {stack.Pop()}");
+
+Console.WriteLine("\nRunning LinqPracitce....");
+new LinqPractice().Run();
